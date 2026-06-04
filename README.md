@@ -162,3 +162,10 @@ Smaller towns and less industrialized regions generally report “Good” to “
 Secondary pollutants like Ozone exhibit variability, with severe episodes in urban centers driven by photochemical reactions.
 Monitoring boards (DPCC, GPCB, HPPCB, etc.) provide localized insights, enabling comparisons across regions and governance structures.
 Overall, the dataset underscores the urgent need for region-specific interventions: stricter vehicular and industrial emission controls in urban-industrial clusters, preventive monitoring in smaller towns, and coordinated policy measures across states. It serves as a valuable foundation for diagnostic and prescriptive analytics, enabling stakeholders to design targeted strategies for improving air quality and safeguarding public health.
+
+---
+
+## Author
+Mr . Aswin M S
+
+Data Analyst
